@@ -26,4 +26,5 @@ The preprocessed dataset is split into training and testing sets. The model is t
 Once the model achieves satisfactory performance, it can be deployed as a standalone system or integrated into other applications or platforms. The gender prediction system can accept voice inputs from users and provide real-time predictions of their gender. Additionally, the trained model can be saved and reused for future predictions.
 
 # OUTPUT:
-![WhatsApp Image 2023-05-16 at 14 59 57](https://github.com/070nilesh/Gender_Detection_Using_Voice/assets/106299684/f8f8ca05-57c5-4212-91f1-7f4e4b106777)
+
+![WhatsApp Image 2023-05-16 at 14 59 57](https://github.com/070nilesh/Voice_based_gender_detection/assets/106299684/bc0f8d07-8e0f-4fd3-97c8-5710351b814f)
